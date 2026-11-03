@@ -17,7 +17,6 @@
 - 🚀 **CTO at [ORBIQ](https://www.orbiq.team/)**: Egyptian ed-tech building AI companions that adapt to every learner
   - **Swaya**: AI companion that helps children in special education practise speech and social skills
   - **MADA**: AI study assistant for university students
-- 📈 **Sentinile** (in progress): EGX stock prediction with LLM news sentiment
 
 ### what i work on
 
