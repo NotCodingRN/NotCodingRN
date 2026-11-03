@@ -40,7 +40,3 @@
 | [campus-lost-found](https://github.com/NotCodingRN/campus-lost-found) | Three-tier Docker Compose app: Nginx/React, Express, PostgreSQL |
 | [Distortion-Guitar-Pedal](https://github.com/NotCodingRN/Distortion-Guitar-Pedal) | DIY distortion pedal |
 | [ZC-GPA-CALCULATOR](https://github.com/NotCodingRN/ZC-GPA-CALCULATOR) | GPA calculator for Zewail City's grading system |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotCodingRN&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" alt="Top languages">
-</p>
