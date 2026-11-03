@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm NotCodingRN 👋</h1>
+<h1 align="center">hey, i'm NotCodingRN "Alaa"</h1>
 
 <p align="center">
   <b>CTO @ <a href="https://www.orbiq.team/">ORBIQ</a></b> · Engineering student at Zewail City<br>
