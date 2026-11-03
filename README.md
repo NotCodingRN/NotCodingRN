@@ -70,17 +70,43 @@
   <img src="https://img.shields.io/badge/Google%20OAuth-1f1f1f?style=flat-square&logo=google&logoColor=white" alt="Google OAuth">
   <img src="https://img.shields.io/badge/ASP.NET-1f1f1f?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET">
   <img src="https://img.shields.io/badge/Flask-1f1f1f?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-1f1f1f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Pydantic-1f1f1f?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/WebSockets-1f1f1f?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/pytest-1f1f1f?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
   <img src="https://img.shields.io/badge/Flutter-1f1f1f?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Qt-1f1f1f?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+</p>
+
+**ai and llms**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1f1f1f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-1f1f1f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Transformers-1f1f1f?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers">
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-1f1f1f?style=flat-square" alt="PEFT / LoRA">
+  <img src="https://img.shields.io/badge/TRL-1f1f1f?style=flat-square" alt="TRL">
+  <img src="https://img.shields.io/badge/Unsloth-1f1f1f?style=flat-square" alt="Unsloth">
+  <img src="https://img.shields.io/badge/Qwen2.5--VL-1f1f1f?style=flat-square" alt="Qwen2.5-VL">
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-1f1f1f?style=flat-square" alt="Amazon Bedrock">
+  <img src="https://img.shields.io/badge/Groq-1f1f1f?style=flat-square" alt="Groq">
+  <img src="https://img.shields.io/badge/Gemini-1f1f1f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-1f1f1f?style=flat-square" alt="OpenAI SDK">
+  <img src="https://img.shields.io/badge/Roboflow-1f1f1f?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow">
 </p>
 
 **data and ml**
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-1f1f1f?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pillow-1f1f1f?style=flat-square" alt="Pillow">
+  <img src="https://img.shields.io/badge/H3%20geospatial-1f1f1f?style=flat-square" alt="H3 geospatial">
   <img src="https://img.shields.io/badge/OpenCV-1f1f1f?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/ONNX%20Runtime-1f1f1f?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime">
   <img src="https://img.shields.io/badge/Jupyter-1f1f1f?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google%20Colab-1f1f1f?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Kaggle-1f1f1f?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/SQLite-1f1f1f?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL%20Server-1f1f1f?style=flat-square" alt="SQL Server">
 </p>
@@ -90,7 +116,14 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Nginx-1f1f1f?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS%20EC2-1f1f1f?style=flat-square" alt="AWS EC2">
+  <img src="https://img.shields.io/badge/AWS%20S3-1f1f1f?style=flat-square" alt="AWS S3">
+  <img src="https://img.shields.io/badge/AWS%20SQS-1f1f1f?style=flat-square" alt="AWS SQS">
+  <img src="https://img.shields.io/badge/AWS%20SSM-1f1f1f?style=flat-square" alt="AWS SSM">
+  <img src="https://img.shields.io/badge/AWS%20IAM-1f1f1f?style=flat-square" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/AWS%20Polly-1f1f1f?style=flat-square" alt="AWS Polly">
+  <img src="https://img.shields.io/badge/AWS%20Transcribe-1f1f1f?style=flat-square" alt="AWS Transcribe">
+  <img src="https://img.shields.io/badge/systemd-1f1f1f?style=flat-square" alt="systemd">
   <img src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" alt="Linux">
