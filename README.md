@@ -1,19 +1,22 @@
 <h1 align="center">hey, i'm NotCodingRN 👋</h1>
 
 <p align="center">
-  <b>CTO @ Orbiq</b> · Engineering student at Zewail City<br>
+  <b>CTO @ <a href="https://www.orbiq.team/">ORBIQ</a></b> · Engineering student at Zewail City<br>
   Embedded systems, robotics, and machine learning.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alaayvl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.orbiq.team/"><img src="https://img.shields.io/badge/ORBIQ-1f1f1f?style=flat-square&logo=rocket&logoColor=white" alt="ORBIQ"></a>
 </p>
 
 ---
 
 ### now
 
-- 🚀 **CTO at Orbiq**: leading the tech side
+- 🚀 **CTO at [ORBIQ](https://www.orbiq.team/)**: Egyptian ed-tech building AI companions that adapt to every learner
+  - **Swaya**: AI companion that helps children in special education practise speech and social skills
+  - **MADA**: AI study assistant for university students
 - 📈 **Sentinile** (in progress): EGX stock prediction with LLM news sentiment
 
 ### what i work on
