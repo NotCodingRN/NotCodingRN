@@ -23,6 +23,7 @@
 - **Embedded**: PIC microcontrollers, layered HAL/MCAL drivers, analog circuits
 - **Robotics**: autonomous minesweeper robot (IROS)
 - **ML**: time-series forecasting and LLM-based sentiment analysis
+- **Comms**: information theory and RF link math ([shannon-says](https://github.com/NotCodingRN/shannon-says))
 - **Cloud and web**: Docker Compose stacks with React, Express and PostgreSQL
 
 ### tools
@@ -145,6 +146,7 @@
 | project | what it is |
 | --- | --- |
 | Sentinile | EGX stock prediction with LLM news sentiment (private, in progress) |
+| [shannon-says](https://github.com/NotCodingRN/shannon-says) | Comms-engineering CLI: channel capacity, dB math, path loss, link budgets, Eb/N0 |
 | [campus-lost-found](https://github.com/NotCodingRN/campus-lost-found) | Three-tier Docker Compose app: Nginx/React, Express, PostgreSQL |
 | [Food-Factory-Shop-Management-System](https://github.com/NotCodingRN/Food-Factory-Shop-Management-System) | Shop management system for a food factory |
 | [ZC-GPA-CALCULATOR](https://github.com/NotCodingRN/ZC-GPA-CALCULATOR) | GPA calculator for Zewail City's grading system |
