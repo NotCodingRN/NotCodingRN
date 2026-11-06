@@ -146,6 +146,7 @@
 | project | what it is |
 | --- | --- |
 | Sentinile | EGX stock prediction with LLM news sentiment (private, in progress) |
+| [dormvpn](https://github.com/NotCodingRN/dormvpn) | Self-hosted multi-user VPN on AWS: VLESS + REALITY, per-user data limits, admin panel, Windows app |
 | [shannon-says](https://github.com/NotCodingRN/shannon-says) | Comms-engineering CLI: channel capacity, dB math, path loss, link budgets, Eb/N0 |
 | [campus-lost-found](https://github.com/NotCodingRN/campus-lost-found) | Three-tier Docker Compose app: Nginx/React, Express, PostgreSQL |
 | [Food-Factory-Shop-Management-System](https://github.com/NotCodingRN/Food-Factory-Shop-Management-System) | Shop management system for a food factory |
