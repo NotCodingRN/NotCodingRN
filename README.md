@@ -1,155 +1,102 @@
-<h1 align="center">hey, i'm NotCodingRN "Alaa"</h1>
-
-<p align="center">
-  <b>CTO @ <a href="https://www.orbiq.team/">ORBIQ</a></b> · Engineering student at Zewail City<br>
-  Embedded systems, robotics, and machine learning.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alaayvl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.orbiq.team/"><img src="https://img.shields.io/badge/ORBIQ-1f1f1f?style=flat-square&logo=rocket&logoColor=white" alt="ORBIQ"></a>
-</p>
-
----
-
-### now
-
-- 🚀 **CTO at [ORBIQ](https://www.orbiq.team/)**: Egyptian ed-tech building AI companions that adapt to every learner
-  - **Swaya**: AI companion that helps children in special education practise speech and social skills
-  - **MADA**: AI study assistant for university students
-
-### what i work on
-
-- **Embedded**: PIC microcontrollers, layered HAL/MCAL drivers, analog circuits
-- **Robotics**: autonomous minesweeper robot (IROS)
-- **ML**: time-series forecasting and LLM-based sentiment analysis
-- **Comms**: information theory and RF link math ([shannon-says](https://github.com/NotCodingRN/shannon-says))
-- **Cloud and web**: Docker Compose stacks with React, Express and PostgreSQL
-
-### tools
-
-**languages**
-
 <p>
-  <img src="https://img.shields.io/badge/C-1f1f1f?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-1f1f1f?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-1f1f1f?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Dart-1f1f1f?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Kotlin-1f1f1f?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/SQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML-1f1f1f?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1f1f1f?style=flat-square&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Bash-1f1f1f?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/PowerShell-1f1f1f?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Smali-1f1f1f?style=flat-square&logo=android&logoColor=white" alt="Smali">
+  <img src="./assets/profile-header.svg" width="100%" alt="NotCodingRN. From bits to bots. Embedded systems, robotics and AI." />
 </p>
 
-**embedded and hardware**
+# Hey, I'm Alaa.
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-1f1f1f?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-1f1f1f?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-1f1f1f?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/PIC%20MCUs-1f1f1f?style=flat-square&logo=microchip&logoColor=white" alt="PIC microcontrollers">
-  <img src="https://img.shields.io/badge/MQTT-1f1f1f?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-  <img src="https://img.shields.io/badge/Proteus-1f1f1f?style=flat-square" alt="Proteus">
-  <img src="https://img.shields.io/badge/Android%20firmware-1f1f1f?style=flat-square&logo=samsung&logoColor=white" alt="Android firmware">
-</p>
+**CTO at [ORBIQ](https://www.orbiq.team/)** and an engineering student at **Zewail City**. I work across embedded systems, robotics, and machine learning, from PIC drivers and analog circuits to AI companions.
 
-**web, mobile and desktop**
+[LinkedIn](https://www.linkedin.com/in/alaayvl/) &nbsp; / &nbsp; [ORBIQ](https://www.orbiq.team/) &nbsp; / &nbsp; [All repositories](https://github.com/NotCodingRN?tab=repositories)
 
-<p>
-  <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vite-1f1f1f?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-1f1f1f?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Zod-1f1f1f?style=flat-square&logo=zod&logoColor=white" alt="Zod">
-  <img src="https://img.shields.io/badge/Google%20OAuth-1f1f1f?style=flat-square&logo=google&logoColor=white" alt="Google OAuth">
-  <img src="https://img.shields.io/badge/ASP.NET-1f1f1f?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/Flask-1f1f1f?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-1f1f1f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Pydantic-1f1f1f?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic">
-  <img src="https://img.shields.io/badge/WebSockets-1f1f1f?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets">
-  <img src="https://img.shields.io/badge/pytest-1f1f1f?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
-  <img src="https://img.shields.io/badge/Flutter-1f1f1f?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Qt-1f1f1f?style=flat-square&logo=qt&logoColor=white" alt="Qt">
-</p>
+## What I'm building
 
-**ai and llms**
+At **[ORBIQ](https://www.orbiq.team/)**, we're building AI companions that adapt to each learner.
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-1f1f1f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging%20Face-1f1f1f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Transformers-1f1f1f?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers">
-  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-1f1f1f?style=flat-square" alt="PEFT / LoRA">
-  <img src="https://img.shields.io/badge/TRL-1f1f1f?style=flat-square" alt="TRL">
-  <img src="https://img.shields.io/badge/Unsloth-1f1f1f?style=flat-square" alt="Unsloth">
-  <img src="https://img.shields.io/badge/Qwen2.5--VL-1f1f1f?style=flat-square" alt="Qwen2.5-VL">
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-1f1f1f?style=flat-square" alt="Amazon Bedrock">
-  <img src="https://img.shields.io/badge/Groq-1f1f1f?style=flat-square" alt="Groq">
-  <img src="https://img.shields.io/badge/Gemini-1f1f1f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/OpenAI%20SDK-1f1f1f?style=flat-square" alt="OpenAI SDK">
-  <img src="https://img.shields.io/badge/Roboflow-1f1f1f?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow">
-</p>
+- **Swaya** helps children in special education practise speech and social skills.
+- **MADA** is an AI study assistant for university students.
 
-**data and ml**
+On my bench: **Sentinile**, an EGX stock prediction project combining time-series forecasting with LLM news sentiment. Private, in progress.
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-1f1f1f?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pillow-1f1f1f?style=flat-square" alt="Pillow">
-  <img src="https://img.shields.io/badge/H3%20geospatial-1f1f1f?style=flat-square" alt="H3 geospatial">
-  <img src="https://img.shields.io/badge/OpenCV-1f1f1f?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-1f1f1f?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime">
-  <img src="https://img.shields.io/badge/Jupyter-1f1f1f?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Google%20Colab-1f1f1f?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Kaggle-1f1f1f?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
-  <img src="https://img.shields.io/badge/SQLite-1f1f1f?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQL%20Server-1f1f1f?style=flat-square" alt="SQL Server">
-</p>
+## Selected projects
 
-**cloud and devops**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NotCodingRN/IROS-Minesweeper-Robot">IROS Minesweeper Robot</a></h3>
+<p>Firmware for an autonomous minesweeper robot. Where code meets the physical world.</p>
+<p><sub>C++ &nbsp; / &nbsp; Robotics &nbsp; / &nbsp; Embedded systems</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NotCodingRN/solidworks-skill">solidworks-skill</a></h3>
+<p>A Claude Code plugin for parts, assemblies, drawings, FEA and Motion in SOLIDWORKS, checked against hand calculations.</p>
+<p><sub>C# &nbsp; / &nbsp; CAD automation &nbsp; / &nbsp; Engineering</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NotCodingRN/dormvpn">dormvpn</a></h3>
+<p>A self-hosted, multi-user VPN on AWS with per-user data limits, an admin panel, and a Windows app.</p>
+<p><sub>C# &nbsp; / &nbsp; AWS &nbsp; / &nbsp; VLESS + REALITY</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NotCodingRN/shannon-says">shannon-says</a></h3>
+<p>A communications-engineering CLI for channel capacity, dB math, path loss, link budgets, and Eb/N0.</p>
+<p><sub>Python &nbsp; / &nbsp; Information theory &nbsp; / &nbsp; RF</sub></p>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Nginx-1f1f1f?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/AWS%20EC2-1f1f1f?style=flat-square" alt="AWS EC2">
-  <img src="https://img.shields.io/badge/AWS%20S3-1f1f1f?style=flat-square" alt="AWS S3">
-  <img src="https://img.shields.io/badge/AWS%20SQS-1f1f1f?style=flat-square" alt="AWS SQS">
-  <img src="https://img.shields.io/badge/AWS%20SSM-1f1f1f?style=flat-square" alt="AWS SSM">
-  <img src="https://img.shields.io/badge/AWS%20IAM-1f1f1f?style=flat-square" alt="AWS IAM">
-  <img src="https://img.shields.io/badge/AWS%20Polly-1f1f1f?style=flat-square" alt="AWS Polly">
-  <img src="https://img.shields.io/badge/AWS%20Transcribe-1f1f1f?style=flat-square" alt="AWS Transcribe">
-  <img src="https://img.shields.io/badge/systemd-1f1f1f?style=flat-square" alt="systemd">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-</p>
+<details>
+<summary><b>More projects, from circuits to cloud</b></summary>
 
-### projects
+### Embedded and hardware
 
-**embedded and hardware**
-
-| project | what it is |
+| Project | What it is |
 | --- | --- |
-| [IROS-Minesweeper-Robot](https://github.com/NotCodingRN/IROS-Minesweeper-Robot) | Minesweeper robot firmware in C++ |
 | [ES_Course_Labs](https://github.com/NotCodingRN/ES_Course_Labs) | PIC embedded labs with structured HAL/MCAL drivers |
 | [Full-Smart-Home-Safety-System](https://github.com/NotCodingRN/Full-Smart-Home-Safety-System) | Smart home safety system in Python |
 | [Distortion-Guitar-Pedal](https://github.com/NotCodingRN/Distortion-Guitar-Pedal) | DIY distortion pedal |
 | [UN1CA](https://github.com/NotCodingRN/UN1CA) | Custom firmware for Samsung Galaxy devices (fork) |
 
-**software**
+### Software
 
-| project | what it is |
+| Project | What it is |
 | --- | --- |
-| Sentinile | EGX stock prediction with LLM news sentiment (private, in progress) |
-| [dormvpn](https://github.com/NotCodingRN/dormvpn) | Self-hosted multi-user VPN on AWS: VLESS + REALITY, per-user data limits, admin panel, Windows app |
-| [shannon-says](https://github.com/NotCodingRN/shannon-says) | Comms-engineering CLI: channel capacity, dB math, path loss, link budgets, Eb/N0 |
-| [solidworks-skill](https://github.com/NotCodingRN/solidworks-skill) | Claude Code plugin that drives SOLIDWORKS through its API: parts, assemblies, drawings, FEA and Motion, checked against hand calcs |
 | [campus-lost-found](https://github.com/NotCodingRN/campus-lost-found) | Three-tier Docker Compose app: Nginx/React, Express, PostgreSQL |
 | [Food-Factory-Shop-Management-System](https://github.com/NotCodingRN/Food-Factory-Shop-Management-System) | Shop management system for a food factory |
 | [ZC-GPA-CALCULATOR](https://github.com/NotCodingRN/ZC-GPA-CALCULATOR) | GPA calculator for Zewail City's grading system |
 | [First-PROJ---Shape-Matching-Game](https://github.com/NotCodingRN/First-PROJ---Shape-Matching-Game) | Shape matching game in C, my first project |
+
+</details>
+
+## My toolkit
+
+| Area | Tools I work with |
+| --- | --- |
+| Embedded and hardware | C / C++, PIC MCUs, ESP32, Arduino, Raspberry Pi, Proteus |
+| AI and machine learning | Python, PyTorch, Hugging Face, OpenCV, LLM fine-tuning |
+| Apps and APIs | TypeScript, React, Node.js, FastAPI, C#, Flutter |
+| Cloud and data | Docker, AWS, Linux, PostgreSQL, GitHub Actions |
+
+<details>
+<summary><b>The full stack</b></summary>
+
+**Languages**  
+C, C++, C#, Python, TypeScript, JavaScript, Dart, Kotlin, SQL, HTML, CSS, Bash, PowerShell, Smali
+
+**Embedded and hardware**  
+Arduino, ESP32, Raspberry Pi, PIC MCUs, MQTT, Proteus, Android firmware
+
+**Web, mobile and desktop**  
+React, Vite, Node.js, Express, Zod, Google OAuth, ASP.NET, Flask, FastAPI, Pydantic, WebSockets, pytest, Flutter, Qt
+
+**AI and LLMs**  
+PyTorch, Hugging Face, Transformers, PEFT / LoRA, TRL, Unsloth, Qwen2.5-VL, Amazon Bedrock, Groq, Gemini, OpenAI SDK, Roboflow
+
+**Data and ML**  
+NumPy, Pillow, H3 geospatial, OpenCV, ONNX Runtime, Jupyter, Google Colab, Kaggle, SQLite, PostgreSQL, SQL Server
+
+**Cloud and DevOps**  
+Docker, Nginx, AWS EC2, S3, SQS, SSM, IAM, Polly, Transcribe, systemd, GitHub Actions, Git, Linux
+
+</details>

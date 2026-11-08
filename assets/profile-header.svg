@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">NotCodingRN — From bits to bots.</title>
+  <desc id="desc">Alaa's profile banner: embedded systems, robotics and AI, with a custom circuit illustration in blue, lilac and peach on indigo.</desc>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#9DB0D3" stroke-width=".7" opacity=".12"/>
+    </pattern>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#77B8FF"/><stop offset="1" stop-color="#B8A6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="20" fill="#14213D"/>
+  <rect x="630" y="0" width="570" height="390" rx="20" fill="url(#grid)"/>
+  <path d="M0 370H570L590 390H20Q0 390 0 370" fill="#77B8FF"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="60" y="61" font-size="25" font-weight="600" fill="#9DB0D3">NotCodingRN</text>
+    <text x="56" y="159" font-size="82" font-weight="750" letter-spacing="-3" fill="#F1F5FF">From bits</text>
+    <text x="56" y="247" font-size="82" font-weight="750" letter-spacing="-3" fill="#F1F5FF">to bots.</text>
+    <text x="60" y="318" font-size="23" fill="#9DB0D3">Embedded systems / Robotics / AI</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#9DB0D3" stroke-width="1.5" opacity=".22">
+      <path d="M661 62H750L790 102H1160"/>
+      <path d="M675 338H791L824 305H1155"/>
+      <path d="M1145 35V61L1118 88V140"/>
+      <path d="M653 175H695L724 204V258"/>
+      <circle cx="661" cy="62" r="4"/><circle cx="675" cy="338" r="4"/><circle cx="1145" cy="35" r="4"/>
+    </g>
+    <g stroke="url(#trace)" stroke-width="3">
+      <path d="M850 164H787L755 132H711"/>
+      <path d="M850 194H745L702 237H676"/>
+      <path d="M850 224H794L760 258V285"/>
+      <path d="M978 164H1025L1062 127H1101"/>
+      <path d="M978 194H1073L1118 239H1143"/>
+      <path d="M978 224H1022L1053 255V289"/>
+      <path d="M884 130V98L850 64H811"/>
+      <path d="M944 130V94H988"/>
+      <path d="M884 258V285L851 318H826"/>
+      <path d="M944 258V306H984"/>
+    </g>
+    <g stroke="#77B8FF" stroke-width="3" fill="#14213D">
+      <circle cx="711" cy="132" r="6"/><circle cx="676" cy="237" r="6"/><circle cx="760" cy="285" r="6"/>
+      <circle cx="1101" cy="127" r="6"/><circle cx="1143" cy="239" r="6"/><circle cx="1053" cy="289" r="6"/>
+      <circle cx="811" cy="64" r="6"/><circle cx="988" cy="94" r="6"/><circle cx="826" cy="318" r="6"/><circle cx="984" cy="306" r="6"/>
+    </g>
+    <rect x="837" y="117" width="154" height="154" rx="25" stroke="#9DB0D3" opacity=".26"/>
+    <rect x="850" y="130" width="128" height="128" rx="18" fill="#1C2C4D" stroke="#B8A6FF" stroke-width="2"/>
+    <path d="M877 221V167L914 221V167M933 167H948Q963 167 963 181Q963 195 948 195H933V221M948 195L965 221" stroke="#F1F5FF" stroke-width="5"/>
+    <path d="M873 144H890" stroke="#FFBB98" stroke-width="4"/>
+    <circle cx="966" cy="246" r="3" fill="#FFBB98" stroke="none"/>
+  </g>
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#9DB0D3">
+    <text x="694" y="108">hardware</text>
+    <text x="1021" y="329">software</text>
+  </g>
+</svg>
