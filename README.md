@@ -4,7 +4,7 @@
 
 # Hey, I'm Alaa.
 
-**CTO at [ORBIQ](https://www.orbiq.team/)** and an engineering student at **Zewail City**. I work across embedded systems, robotics, and machine learning, from PIC drivers and analog circuits to AI companions.
+**CTO at [ORBIQ](https://www.orbiq.team/)** and a senior engineering student at **Zewail City**. I work across embedded systems, robotics, and machine learning, from PIC drivers and analog circuits to AI companions.
 
 [LinkedIn](https://www.linkedin.com/in/alaayvl/) &nbsp; / &nbsp; [ORBIQ](https://www.orbiq.team/) &nbsp; / &nbsp; [All repositories](https://github.com/NotCodingRN?tab=repositories)
 
