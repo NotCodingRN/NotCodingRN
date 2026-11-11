@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/profile-header.svg" width="100%" alt="NotCodingRN. From bits to bots. Embedded systems, robotics and AI." />
+  <img src="./assets/profile-header.jpg" width="100%" alt="NotCodingRN. From bits to bots. Embedded systems, robotics and AI." />
 </p>
 
 # Hey, I'm Alaa.
